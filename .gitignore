@@ -1,1 +1,6 @@
- */node-modules/*
+*/node-modules/*
+
+Postgres-PGADMIN/pgadmin4/*
+Postgres-PGADMIN/postgres/*
+
+*/.env
